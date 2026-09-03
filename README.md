@@ -37,9 +37,11 @@ GET /api/rewards
 
 ## How to Run
 
-mvn clean test
+gradlew clean test
 
-mvn spring-boot:run
+The application will start on:
+
+http://localhost:8080
 
 ## Design
 
